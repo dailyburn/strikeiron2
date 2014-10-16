@@ -4,7 +4,7 @@ module Strikeiron
     
     def initialize
       # set default options (can be overwritten in configure block)
-      self.ssl_version = :SSLv3
+      self.ssl_version = :TLSv1
       self.ssl_verify_mode = :none
     end
   end
