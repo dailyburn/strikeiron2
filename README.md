@@ -1,6 +1,6 @@
 # Strikeiron2
 
-TODO: Write a gem description
+Gem for interacting with StrikeIron's API.
 
 ## Installation
 
